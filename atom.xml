@@ -6,7 +6,7 @@
   <link href="http://noskyzenx.github.io/atom.xml" rel="self"/>
   
   <link href="http://noskyzenx.github.io/"/>
-  <updated>2025-07-11T01:09:15.958Z</updated>
+  <updated>2025-07-22T20:16:43.818Z</updated>
   <id>http://noskyzenx.github.io/</id>
   
   <author>
@@ -15,6 +15,43 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>什么是 RSS?</title>
+    <link href="http://noskyzenx.github.io/2025/07/23/What-Is-RSS/"/>
+    <id>http://noskyzenx.github.io/2025/07/23/What-Is-RSS/</id>
+    <published>2025-07-22T19:38:44.000Z</published>
+    <updated>2025-07-22T20:16:43.818Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Introduction">Introduction</h2><p>不知道你是否有注意到，在我 blog的最下方，有一个叫 RSS的东西，点开它后会出现一个非常丑陋的网页——这是干什么的？</p><p><img src="/images/RSS-screenshot.jpg" alt="RSS-screenshot.jpg"></p><p>它是一个好东西，全名叫 Really Simple Syndication，有时也称为 Rich Site Summary.</p><p>它可以帮助你在同一个地方接收不同信息源的更新消息，有点类似订阅一个 newsletter，来自不同人们的 newsletter更新的邮件会集中发送至你的邮箱，而RSS就可以帮助你把来自不同网站的更新信息集中发送给你。你会在很多地方见到它，尤其是在个人博客中。</p><h2 id="How-to-use-it">How to use it?</h2><p>你需要一个阅读器，它可以是一个 app，也可以是一个网页，常见的有 <a href="https://feedly.com/homepage">Feedly</a>, <a href="https://www.inoreader.com/">Inoreader</a>, <a href="https://reederapp.com/">Reeder</a> 等。</p><p>这里我拿 Inoreader的网页端 app来举例，进入页面后，左侧来到 Add feed这里，你会看到如图所示的页面：</p><p><img src="/images/Inoreader-screenshot1.png" alt="Inoreader-screenshot1.png"></p><p>app会给出一些推荐的网站的 RSS，暂时先不用管它，在输入框这里，复制在我网站底下的 RSS网页链接：</p><blockquote><p><a href="https://noskyzenx.github.io/atom.xml">https://noskyzenx.github.io/atom.xml</a></p></blockquote><p>随后你可以看到我的 Feed，随后点击右侧的 Follow：</p><p><img src="/images/Inoreader-screenshot2.png" alt="Inoreader-screenshot2.png"></p><p>恭喜！日后你可以在这个 app上接收来自我的、以及其他网站的更新信息了！而不用一个个去手动 check它们的更新状态！</p><h2 id="Final-Thoughts">Final Thoughts</h2><p>RSS，不仅仅是信息聚合的工具，它更是一种成为 <a href="https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy/dp/0525536515">digital minimalism</a>的人的象征，去除网上的 distractions，还给自己一个更加清净，focus的世界。</p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Introduction&quot;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;不知道你是否有注意到，在我 blog的最下方，有一个叫 RSS的东西，点开它后会出现一个非常丑陋的网页——这是干什么的？&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/RSS-screenshot.jpg&quot; alt=&quot;RSS-screenshot.jpg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;它是一个好东西，全名叫 Really Simple Syndication，有时也称为 Rich Site Summary.&lt;/p&gt;
+&lt;p&gt;它可以帮助你在同一个地方接收不同信息源的更新消息，有点类似订阅一个</summary>
+        
+      
+    
+    
+    
+    <category term="Explainer" scheme="http://noskyzenx.github.io/categories/Explainer/"/>
+    
+    
+    <category term="RSS" scheme="http://noskyzenx.github.io/tags/RSS/"/>
+    
+    <category term="web" scheme="http://noskyzenx.github.io/tags/web/"/>
+    
+    <category term="feed" scheme="http://noskyzenx.github.io/tags/feed/"/>
+    
+    <category term="aggregation" scheme="http://noskyzenx.github.io/tags/aggregation/"/>
+    
+  </entry>
   
   <entry>
     <title>一个不知会漂向何方的漂流瓶</title>
