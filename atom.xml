@@ -6,7 +6,7 @@
   <link href="http://noskyzenx.github.io/atom.xml" rel="self"/>
   
   <link href="http://noskyzenx.github.io/"/>
-  <updated>2026-01-24T08:48:47.306Z</updated>
+  <updated>2026-01-25T04:13:20.223Z</updated>
   <id>http://noskyzenx.github.io/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>用过后回不去——AI语音输入法</title>
+    <link href="http://noskyzenx.github.io/2026/01/25/I-Love-AI-Voice-Typing/"/>
+    <id>http://noskyzenx.github.io/2026/01/25/I-Love-AI-Voice-Typing/</id>
+    <published>2026-01-25T04:07:19.000Z</published>
+    <updated>2026-01-25T04:13:20.223Z</updated>
+    
+    <content type="html"><![CDATA[<p>AI语音输入法，可以说是目前我最喜欢用的AI产品之一，比如这段话就是我用语音输入的。</p><p>在最开始我用 AI 语音输入法的时候，我在想:手机上不是已经有了内置的语音输入嘛，为什么还要加个 AI 呢？  但渐渐的我发现事情没那么简单。</p><p>1.它的准确率比内置的语音输入准确率高太多太多了。举个例子。比如这段话：</p><p>“一个好的 prompt 对于 AI 来说真的很重要，它可以很大的 amplify AI 的能力，以及…给AI 更多的 context。于是我们可以，于是他们生成结果的 accuracy会得到很大提高。Hallucination也会大大减小。 ”</p><p>如果是传统的语音输入，它可能不仅识别不到英文，可能反而还会把英文识别成离谱的中文。 但如果ai语音识别模型优秀，它就能完全get到你想表达的意思。比如上面引号里的这段话，我不仅一个字都没有修改，甚至标点都是它帮我加的，Incredible。</p><p>（目前最顶尖的是Elevenlabs的Scribe v2，上面这段话用的Scribe v1，已经准确的吓人了，OpenAI的也不错，就是它经常忘记加标点）</p><p>2.因为是 AI 处理，所以你还可以添加自己的专属词库。比如我要给我的视频上字幕，我会有一个专门的 AI 字幕师的 prompt，里面就包含了我常用的口癖（例如“哎呦”“hoi”“嘞”），还有空洞骑士里的一些专有名词，于是那个 AI 的模型就能 get 到我的意思，最终结果准确率会提升很多，而不需要我一个个去改了。</p><p>3.由于速度和准确率大幅提升，这就相当于你输出的带宽增加了。放在以前，如果我要在手机上用 AI 一个问题，我需要输入大量的文字，这个过程是很痛苦的。但是有了 AI 语音输入法之后，我可以像聊天一样把我遇到的问题，还有所有的 context 都给它表述清楚，整个过程水到渠成！</p><p>OK，说了这么多，请放心，我不是传销组织，我只是真的被这类产品给惊讶到了，并且很大的提高了我的输出效率，因此十分推荐。</p><p>目前我在用的软件：</p><p>Mac端：Spokenly, Wispr Flow<br>Windows端：Wispr Flow<br>iOS：Spokenly, Wispr Flow</p><p>个人更推荐 Spokenly，有更多的模型可以选，同时集成了各种第三方api和本地模型可供选择，很多api服务商有提供免费额度，同时该软件给出了获取api key的链接，非常方便，可以试试看。</p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;AI语音输入法，可以说是目前我最喜欢用的AI产品之一，比如这段话就是我用语音输入的。&lt;/p&gt;
+&lt;p&gt;在最开始我用 AI 语音输入法的时候，我在想:手机上不是已经有了内置的语音输入嘛，为什么还要加个 AI 呢？  但渐渐的我发现事情没那么简单。&lt;/p&gt;
+&lt;p&gt;1.它的准确率比内置的语音输入准确率高太多太多了。举个例子。比如这段话：&lt;/p&gt;
+&lt;p&gt;“一个好的 prompt 对于 AI 来说真的很重要，它可以很大的 amplify AI 的能力，以及…给AI 更多的 context。于是我们可以，于是他们生成结果的 accuracy会得到很大提高。Hallucination也会大大减小。</summary>
+        
+      
+    
+    
+    
+    <category term="Explainer" scheme="http://noskyzenx.github.io/categories/Explainer/"/>
+    
+    
+    <category term="AI" scheme="http://noskyzenx.github.io/tags/AI/"/>
+    
+  </entry>
   
   <entry>
     <title>记录一次攀岩</title>
