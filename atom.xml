@@ -6,7 +6,7 @@
   <link href="http://noskyzenx.github.io/atom.xml" rel="self"/>
   
   <link href="http://noskyzenx.github.io/"/>
-  <updated>2026-03-30T10:38:30.385Z</updated>
+  <updated>2026-04-03T15:56:22.618Z</updated>
   <id>http://noskyzenx.github.io/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>New Microphone</title>
+    <link href="http://noskyzenx.github.io/2026/04/03/New-Microphone/"/>
+    <id>http://noskyzenx.github.io/2026/04/03/New-Microphone/</id>
+    <published>2026-04-03T15:54:40.000Z</published>
+    <updated>2026-04-03T15:56:22.618Z</updated>
+    
+    <content type="html"><![CDATA[<p>我真傻，真的，我单知道电容麦能够收录声音的更多细节，但未曾想过这意味着楼下大妈聊天、机箱风扇转动、以及邻居家的狗叫也会被意外收录进去，而这给我后期带来了很多困扰，终于，在做了一些功课之后，对麦克风的了解更全面了一些，并借此机会换一个麦克风。</p><h3 id="麦克风的不同类型">麦克风的不同类型</h3><p>术业有专攻，不同的使用场景需要不同的麦克风来救场。</p><ol><li><p><strong>动圈麦 (Dynamic Microphone)</strong>：耐用、灵敏度较低，极其适合嘈杂环境。想象一个KTV里的人手持动圈麦K歌的情景，你就明白它的优势了。</p></li><li><p><strong>电容麦 (Condenser Microphone)</strong>：极为灵敏，频率响应宽广，捕捉声音纹理。不仅可以捕捉你声音的细节，还可以捕捉风扇声、楼下大妈聊天和领居家狗叫（如果有）。</p></li><li><p><strong>USB/XLR 双模麦克风</strong>：目前主流的方案，内置声卡，插上电脑就能用，很方便。</p></li></ol><h3 id="重要概念">重要概念</h3><ul><li><p><strong>指向性 (Polar Patterns)</strong>：全指向、心形指向、超心形指向…（对于我室内实况的情景，<strong>心形指向</strong>是屏蔽后方键盘声的最佳方案）。</p></li><li><p>图示：</p></li></ul><p><img src="/images/mic-polor-pattern.png" alt="/images/mic-polor-pattern.png"></p><ul><li><strong>近讲效应 (Proximity Effect)</strong>：<strong>离麦克风越近，低频响应越强</strong>。这对于中低音音色的博主来说是把双刃剑。让我印象比较深的是 fireb0rn直播时说的那句&quot;welcome to the god gamer academy&quot;，虽然也有滤镜，近讲效应同样占功劳。</li></ul><h3 id="个人音色">个人音色</h3><p>麦克风需要贴合个人音色。我本人中低音浑厚一些，所以在挑选麦克风时，那些在 <strong>中低频 (Low-Mid Range)</strong> 有润色、且<strong>平直响应 (Flat Response)</strong> 较好的麦克风是首选。 也因此，一些为了提升清晰度而刻意拔高高频 (High-Frequency Boost) 的麦克风（如常见的廉价播客麦）相较而言就不太适合我，容易让声音显得刺耳。</p><h3 id="环境">环境</h3><p><strong>通过手动调整环境，例如在室内增加地毯、吸音棉（Acoustic Panels）之类封住四周，可以减少</strong>声学反射<strong>产生的</strong>混响 (Reverb)**，让声音更纯净。</p><h3 id="我的需求总结：">我的需求总结：</h3><ul><li><p><strong>环境嘈杂</strong> -&gt; 动圈麦 (Dynamic)</p></li><li><p><strong>噪音来源</strong> -&gt; 心形指向 (Cardioid)</p></li><li><p><strong>个人音色偏中低音</strong> -&gt; 关注 <strong>中低频响应</strong> 与 <strong>近讲效应</strong> 的利用。</p></li><li><p><strong>接口选择</strong> -&gt; 考虑未来升级，选择支持 <strong>XLR 接口</strong> 的设备。</p></li></ul><p>结合目前的预算，<strong>爱克创 BC600+</strong>（非广） 感觉不错。对我来说够用了，声卡之类的以后有需求再做考虑。</p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;我真傻，真的，我单知道电容麦能够收录声音的更多细节，但未曾想过这意味着楼下大妈聊天、机箱风扇转动、以及邻居家的狗叫也会被意外收录进去，而这给我后期带来了很多困扰，终于，在做了一些功课之后，对麦克风的了解更全面了一些，并借此机会换一个麦克风。&lt;/p&gt;
+&lt;h3 id=&quot;麦克风的不同类型&quot;&gt;麦克风的不同类型&lt;/h3&gt;
+&lt;p&gt;术业有专攻，不同的使用场景需要不同的麦克风来救场。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;动圈麦 (Dynamic</summary>
+        
+      
+    
+    
+    
+    <category term="Diary" scheme="http://noskyzenx.github.io/categories/Diary/"/>
+    
+    
+    <category term="麦克风" scheme="http://noskyzenx.github.io/tags/%E9%BA%A6%E5%85%8B%E9%A3%8E/"/>
+    
+  </entry>
   
   <entry>
     <title>YouTuber们的丝之歌初见实况Review</title>
@@ -742,9 +774,9 @@
     <category term="Inquiries" scheme="http://noskyzenx.github.io/categories/Inquiries/"/>
     
     
-    <category term="thinking" scheme="http://noskyzenx.github.io/tags/thinking/"/>
-    
     <category term="reading" scheme="http://noskyzenx.github.io/tags/reading/"/>
+    
+    <category term="thinking" scheme="http://noskyzenx.github.io/tags/thinking/"/>
     
     <category term="learning" scheme="http://noskyzenx.github.io/tags/learning/"/>
     
